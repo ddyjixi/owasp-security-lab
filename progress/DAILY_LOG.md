@@ -19,6 +19,7 @@ In progress.
 - Created LICENSE, ROADMAP.md, and progress documents from AI-assisted drafts.
 - Staged seven Day 01 files and supplied the complete staged diff.
 - Explained that client-controlled input may be used to bypass controls.
+- Correctly identified user A as the actor and user B's profile as the asset.
 
 ### AI-Assisted Work
 - Reviewed the full 56-day plan.
@@ -26,7 +27,7 @@ In progress.
 - Drafted project documentation and ignore rules.
 - Reviewed supplied command output.
 - Explained that remediation needs regression and legitimate-use tests.
-- Reviewed all seven staged files; no real credentials were observed.
+- The chat mentor reviewed all seven staged files; no real credentials were observed in the supplied diff.
 - Clarified the distinction between actors and assets.
 
 ### Verification Evidence
@@ -52,13 +53,14 @@ Observed: no output, consistent with the example file not being ignored.
 - Impact analysis does not replace verification of a security fix.
 - Git author configuration does not authenticate a GitHub account.
 - No application or security tests exist yet.
-- Staged documentation was reviewed; commit and clean-tree verification remain pending.
-- Initially confused actors with assets; conceptual re-check remains pending.
+- Staged documentation was reviewed; the initial commit exists and the working tree was clean before this documentation update.
+- Correctly distinguished actor and asset after clarification.
 
 ### Pending
-- Verify local Git author identity and staged whitespace checks.
-- Create the first commit and verify a clean working tree.
+- Verify Git author identity and staged whitespace checks.
+- Verify a clean working tree after the current documentation update is committed.
 - Configure account-specific GitHub authentication.
 
 ### Commit
-Not created yet.
+Initial commit: d6e667b — day-01: initialize project scope and security documentation.
+The current documentation update has not been committed.

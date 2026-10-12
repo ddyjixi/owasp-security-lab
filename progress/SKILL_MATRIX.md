@@ -9,5 +9,5 @@ Statuses describe observed learning evidence, not certifications.
 | Secret handling | Explained .env versus .env.example; ignore behavior verified | Explained and demonstrated | Review staged files for sensitive data |
 | Git author identity | Local setup reported; identity output not reviewed | Pending verification | Inspect local Git configuration |
 | Remediation verification | Initially identified impact; mentor explained regression testing | Introduced | Explain attack and legitimate-use checks |
-| Threat modeling | AI-assisted initial model drafted in README | Drafted | Student explains one asset and trust boundary |
+| Threat modeling | Correctly identified user A as actor and user B's profile as asset; explained distrust of client input | Explained | Apply to the future application |
 | OWASP Web Top 10:2025 | Official category list introduced | Introduced | Explain category versus individual vulnerability |
