@@ -5,7 +5,7 @@ Check a day only after its deliverables and verification are recorded.
 This roadmap does not claim implementation or test completion.
 
 ## Week 1 — Foundations
-- [ ] Day 01: Initialize repository, goals, scope, initial threat model, and Git hygiene.
+- [x] Day 01: Initialize repository, goals, scope, initial threat model, and Git hygiene.
 - [ ] Day 02: Document HTTP basics and five annotated local requests.
 - [ ] Day 03: Build an app skeleton with two test users and a fixture database.
 - [ ] Day 04: Capture and replay three authorized local requests with Burp.
